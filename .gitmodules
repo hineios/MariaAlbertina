@@ -1,3 +1,15 @@
 [submodule "Marlin"]
 	path = Marlin
 	url = git@github.com:MarlinFirmware/Marlin.git
+[submodule "SKR-2"]
+	path = SKR-2
+	url = git@github.com:hineios/SKR-2.git
+[submodule "TMC2209-V1.2"]
+	path = TMC2209-V1.2
+	url = git@github.com:hineios/BIGTREETECH-TMC2209-V1.2.git
+[submodule "TFT35-V3.0"]
+	path = TFT35-V3.0
+	url = git@github.com:hineios/BIGTREETECH-TFT35-V3.0.git
+[submodule "TouchScreenFirmware"]
+	path = TouchScreenFirmware
+	url = git@github.com:hineios/BIGTREETECH-TouchScreenFirmware.git
