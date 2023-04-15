@@ -1,6 +1,6 @@
 [submodule "Marlin"]
 	path = Marlin
-	url = git@github.com:MarlinFirmware/Marlin.git
+	url = git@github.com:hineios/Marlin.git
 [submodule "SKR-2"]
 	path = SKR-2
 	url = git@github.com:hineios/SKR-2.git
